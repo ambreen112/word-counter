@@ -1,4 +1,4 @@
-#! usr/bin/env node
+#! /usr/bin/env node
 
 import inquerir from "inquirer";
 import chalk from "chalk";
